@@ -6,9 +6,9 @@
 
 ## 프로젝트 개요
 
-- **기간**: 2024.07.13 ~ 2024.08.06
-- **참여 분야**: 기획, 디자인, 프론트엔드
-- **배포**: [**dont-do-that.vercel.app**](https://dont-do-that.vercel.app/)
+- **프로젝트 기간**: 2024.07.13 ~ 2024.08.06
+- **맡은 역할**: 기획, 디자인, 프론트엔드
+- **배포 주소**: [**dont-do-that.vercel.app**](https://dont-do-that.vercel.app/)
 
 <br/><br/>
 
